@@ -30,7 +30,7 @@
 <img align="center" height="auto" width="500" alt="Imprimindo a piramide" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665776686/Mario/cash/cash2_jr3qxf.png"/>
 <br>
 
-## :moneybag: &nbsp; Enter invalid number
+## :moneybag: &nbsp; Execution
 <img align="center" height="auto" width="500" alt="Imprimindo a piramide" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665709362/Mario/20221013_182743_1_online-video-cutter.com_1_f2ypor.gif"/>
 <br>
 
@@ -38,12 +38,12 @@
 This project was developed with the following technologies:
 
 - C
--  GitHub Codespace
+- GitHub Codespace
 
 <br>
 
 ## :page_with_curl: &nbsp; License
-This project is under the MIT license. See the [LICENSE](https://github.com/larissayasmim/mario-easy-c/blob/main/LICENSE) for more information.
+This project is under the MIT license. See the [LICENSE](https://github.com/larissayasmim/cash-c/blob/main/LICENSE) for more information.
 
 <br>
 
