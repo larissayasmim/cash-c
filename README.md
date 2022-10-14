@@ -34,7 +34,7 @@
 <img align="center" height="auto" width="500" alt="Imprimindo a piramide" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665709362/Mario/20221013_182743_1_online-video-cutter.com_1_f2ypor.gif"/>
 <br>
 
-## :bricks:  &nbsp; Technologies
+## :computer:  &nbsp; Technologies
 This project was developed with the following technologies:
 
 - C
